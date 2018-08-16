@@ -19,13 +19,5 @@
 
 
 
-# Instructions
 
-Our website demo is [here](http://35.231.98.205/ "Plantastic")
-
-<p>Superuser account (For testing purpose):</p>
-<ul>
-  <li>id: john.k@gmail.com</li>
-  <li>pwd: 12345678</li>
-</ul>
  
